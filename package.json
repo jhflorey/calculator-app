@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "big.js": "^5.2.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-favicon": "^2.0.1",
     "github-fork-ribbon-css": "^0.2.1",
     "path": "^0.12.7",
